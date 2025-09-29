@@ -10,6 +10,8 @@ The platform provides a secure investigator console where incidents can be recon
 
 Deployable on-premises, in the cloud, or in hybrid configurations, the solution scales from a few cameras to thousands. With modular AI engines, robust APIs, and seamless integration into existing security and IT systems, it helps security teams reduce investigation time, improve situational awareness, and ensure regulatory compliance while protecting privacy.
 
+Please do reach out ai.invenio@gmail.com for more details on the solution and general availablility of trial versions.
+
 ### Architecture:
 <img width="1297" height="844" alt="Screenshot from 2025-09-23 14-13-16" src="https://github.com/user-attachments/assets/bcc04a97-2e49-45a3-ab7a-196d7f52e989" />
 
